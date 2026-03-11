@@ -1,0 +1,5 @@
+{
+  "name": "Rival Blog Platform",
+  "description": "A secure, production-ready blog platform with authentication, private dashboard, public feed, and social features like likes and comments.",
+  "requestFramePermissions": []
+}
